@@ -157,6 +157,9 @@
             }
         }
         @media (max-width: 768px){
+            .hero-section h1{
+                font-size: 30px;
+            }
             .hero-img1{
                 width: 150px;
                 height: 163px;
